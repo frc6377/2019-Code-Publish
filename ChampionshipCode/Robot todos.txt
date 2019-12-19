@@ -1,0 +1,2 @@
+1. bailout from climb, reset motion magic constants
+2. 
